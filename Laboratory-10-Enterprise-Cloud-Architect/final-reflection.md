@@ -1,0 +1,9 @@
+# Group Final Reflection
+
+As a group, completing this Cloud Computing activity helped us gain a better understanding of how cloud technologies work and how different services can be connected to build a functional system. Throughout this activity, we worked with Ubuntu Server, Docker, MariaDB, and Nextcloud to create our own cloud storage environment. At first, the process was challenging because we encountered difficulties with Linux commands, Docker configurations, container management, and connecting Nextcloud to MariaDB.
+
+Despite these challenges, we learned how to work together, share ideas, and solve technical problems as a team. Each step allowed us to understand more about how Docker containers operate independently while communicating with each other through an internal network. We also learned that Nextcloud is useful for storing, accessing, and managing files, while MariaDB handles the database information required by the application.
+
+Another important lesson we gained was the importance of data persistence, system security, and backup automation. We realized that building a working cloud system is not only about making applications run but also about protecting information and ensuring that data remains available. Creating an operational manual and architectural diagram also helped us understand and document how our system works.
+
+Overall, this activity improved our technical knowledge, teamwork, communication, and problem-solving skills. Even though we experienced errors and difficulties along the way, we treated them as opportunities to learn and improve. As a group, we realized that patience, cooperation, and continuous learning are important when working with cloud technologies. The experience gave us a better understanding of real-world cloud computing applications and prepared us for more advanced IT projects in the future.
